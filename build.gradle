@@ -1,0 +1,49 @@
+// buildscript必须在顶部，注意位置
+buildscript {
+    repositories {
+        // 优先使用国内源
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        mavenCentral()
+    }
+    dependencies {
+        // 让spring-boot支持gradle
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.1.1.RELEASE")
+    }
+}
+
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "5.1.0"  //lombok依赖数据库
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+// 使用spring boot
+apply plugin: "org.springframework.boot"
+// 使用spring boot的自动依赖管理
+apply plugin: 'io.spring.dependency-management'
+
+group 'learn-demo'
+version '1.0-SNAPSHOT'
+// 指定java版本
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    // 使用国内的源
+    maven { url 'https://maven.aliyun.com/repository/public' }
+    mavenCentral()
+}
+
+// 依赖列表
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    testCompile 'org.springframework.boot:spring-boot-starter-test'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation 'com.alibaba:fastjson:1.2.70'
+    implementation 'org.apache.commons:commons-lang3:3.10'
+    implementation 'com.google.guava:guava:29.0-jre'
+    implementation 'p6spy:p6spy:3.9.0'
+    implementation 'io.netty:netty-all:4.1.51.Final'
+    implementation 'org.projectlombok:lombok:1.18.12'
+}
