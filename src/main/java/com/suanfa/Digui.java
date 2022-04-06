@@ -8,16 +8,15 @@ package com.suanfa;
 public class Digui {
 
     public static void main(String[] args) {
-        System.out.println(sum(10));
+        System.out.println(sum(100));
 
     }
 
     public static int sum(int n) {
-        if (n <= 2) {
-            return 1;
+        if (n <= 0) {
+            return 0;
         }
-        System.out.println(n);
-        return sum(n - 1) + sum(n - 2);
+        return n + sum(n - 1);
     }
 
 }

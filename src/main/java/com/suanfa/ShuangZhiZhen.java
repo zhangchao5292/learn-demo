@@ -15,13 +15,29 @@ public class ShuangZhiZhen {
 
     public static void main(String[] args) {
         try {
-            int[] ints = twoSum(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9}, 10);
+            int[] ints = twoSum2(new int[]{1, 5, 8, 9}, 17);
             System.out.println(ints[0] + "--" + ints[1]);
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
+
+    private static int[] twoSum2(int[] numbers, int target) {
+        int left=0;
+        int right=numbers.length-1;
+        while (left<right){
+            int sum=numbers[left]+numbers[right];
+            if (sum==target){
+                return new int[]{left,right};
+            }else if (sum>target){
+                right--;
+            }else {
+                left++;
+            }
+        }
+        return null;
+    }
+
     public static int[] twoSum(int[] numbers, int target) {
         int i = 0;
         int j = numbers.length-1;

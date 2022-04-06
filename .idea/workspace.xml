@@ -3,8 +3,67 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe6567c-8770-4530-add9-c50a7b9d500e" name="Default Changelist" comment="" />
+    <list default="true" id="5fe6567c-8770-4530-add9-c50a7b9d500e" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learn-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/jichu/Changliang.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/jichu/Changliang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/md/Sing.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/md/Sing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/netty/SimpleNettyClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/netty/SimpleNettyClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/netty/SimpleNettyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/netty/SimpleNettyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/netty/WSNetty.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/netty/WSNetty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/Digui.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/Digui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/LRUCache$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/Paixu.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/Paixu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/ShuangZhiZhen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/ShuangZhiZhen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/hot/ArrayIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/hot/ArrayIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/hot/ReverseNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suanfa/hot/ReverseNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/thread/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/thread/CountDownLatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/thread/LockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/thread/LockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lombok.config" beforeDir="false" afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LearnApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LearnApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jichu/Changliang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jichu/Changliang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/md/Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/md/Interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/md/Sing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/md/Sing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/Digui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/Digui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/lru/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/Paixu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/Paixu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/ShuangZhiZhen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/ShuangZhiZhen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/hot/ArrayIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/hot/ArrayIntersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suanfa/hot/ReverseNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suanfa/hot/ReverseNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thread/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thread/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thread/LockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thread/LockDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +77,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -35,6 +97,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,34 +123,113 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.16191353" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springmy.proxy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.spring" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Application.LruAddOrder">
+    <configuration name="LruAccessOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suanfa.lru.LruAccessOrder" />
+      <module name="learn-demo_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suanfa.lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="LruAddOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suanfa.lru.LruAddOrder" />
+      <module name="learn-demo_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suanfa.lru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springmy.proxy.ProxyFactoryTest" />
+      <module name="learn-demo_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springmy.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultBeanFactoryTest.get" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DefaultBeanFactoryTest.get&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DefaultBeanFactoryTest.testRegistFactoryMethod" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DefaultBeanFactoryTest.testRegistFactoryMethod&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="LearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="learn-demo.main" />
@@ -96,8 +238,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ProxyFactoryTest" />
+      <item itemvalue="Application.LruAccessOrder" />
+      <item itemvalue="Application.LruAddOrder" />
+      <item itemvalue="Gradle.DefaultBeanFactoryTest.get" />
+      <item itemvalue="Gradle.DefaultBeanFactoryTest.testRegistFactoryMethod" />
+      <item itemvalue="Spring Boot.LearnApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LruAddOrder" />
+        <item itemvalue="Application.LruAccessOrder" />
+        <item itemvalue="Application.ProxyFactoryTest" />
+        <item itemvalue="Gradle.DefaultBeanFactoryTest.testRegistFactoryMethod" />
+        <item itemvalue="Gradle.DefaultBeanFactoryTest.get" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5fe6567c-8770-4530-add9-c50a7b9d500e" name="Default Changelist" comment="" />
@@ -107,57 +272,168 @@
       <updated>1625014076804</updated>
       <workItem from="1625014078940" duration="101000" />
       <workItem from="1625016490986" duration="2276000" />
-      <workItem from="1625019512049" duration="12000" />
+      <workItem from="1625019512049" duration="8205000" />
+      <workItem from="1625100508239" duration="4717000" />
+      <workItem from="1625193182081" duration="3166000" />
+      <workItem from="1625528502091" duration="20411000" />
+      <workItem from="1626143629233" duration="23131000" />
+      <workItem from="1626665707283" duration="659000" />
+      <workItem from="1626744289729" duration="2233000" />
+      <workItem from="1626851267280" duration="4213000" />
+      <workItem from="1648516463184" duration="1818000" />
+      <workItem from="1648518308661" duration="6840000" />
+      <workItem from="1648605230893" duration="7858000" />
+      <workItem from="1648622284744" duration="5366000" />
+      <workItem from="1648691097496" duration="2945000" />
+      <workItem from="1648712262135" duration="3202000" />
+      <workItem from="1648775514690" duration="7217000" />
+      <workItem from="1648864673828" duration="3940000" />
+      <workItem from="1649208764783" duration="398000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1625019675732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625019675732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="80" y="23" key="#Project_Structure" timestamp="1625019524274">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648634671256">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="80" y="23" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1625019524274" />
-    <state width="1385" height="126" key="GridCell.Tab.0.bottom" timestamp="1625018841654">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1648634671256" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1648785920278">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1625018841654" />
-    <state width="1385" height="126" key="GridCell.Tab.0.center" timestamp="1625018841653">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1648785920278" />
+    <state width="514" height="438" key="DebuggerActiveHint" timestamp="1648635145649">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1625018841653" />
-    <state width="1385" height="126" key="GridCell.Tab.0.left" timestamp="1625018841653">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="514" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1648635145649" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1648634763177">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1625018841653" />
-    <state width="1385" height="126" key="GridCell.Tab.0.right" timestamp="1625018841653">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1648634763177" />
+    <state width="1237" height="77" key="GridCell.Tab.0.bottom" timestamp="1648864273831">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1625018841653" />
-    <state width="1385" height="126" key="GridCell.Tab.1.bottom" timestamp="1625018841655">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="77" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1648864273831" />
+    <state width="1237" height="77" key="GridCell.Tab.0.center" timestamp="1648864273831">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1625018841655" />
-    <state width="1385" height="126" key="GridCell.Tab.1.center" timestamp="1625018841654">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="77" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1648864273831" />
+    <state width="1237" height="77" key="GridCell.Tab.0.left" timestamp="1648864273831">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1625018841654" />
-    <state width="1385" height="126" key="GridCell.Tab.1.left" timestamp="1625018841654">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="77" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1648864273831" />
+    <state width="1237" height="77" key="GridCell.Tab.0.right" timestamp="1648864273831">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1625018841654" />
-    <state width="1385" height="126" key="GridCell.Tab.1.right" timestamp="1625018841655">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="77" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1648864273831" />
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom" timestamp="1648635374986">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1385" height="126" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1625018841655" />
-    <state x="80" y="23" key="SettingsEditor" timestamp="1625017349804">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1648635374986" />
+    <state width="1237" height="107" key="GridCell.Tab.1.center" timestamp="1648635374985">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="80" y="23" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1625017349803" />
-    <state x="347" y="149" width="746" height="574" key="find.popup" timestamp="1625017637486">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1237" height="107" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1648635374985" />
+    <state width="1237" height="107" key="GridCell.Tab.1.left" timestamp="1648635374985">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="347" y="149" width="746" height="574" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1625017637486" />
+    <state width="1237" height="107" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1648635374985" />
+    <state width="1237" height="107" key="GridCell.Tab.1.right" timestamp="1648635374986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="107" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1648635374986" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1648634788700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1648634788700" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1648775513883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1648775513883" />
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1648718340265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1648718340265" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1648785688901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1648785688901" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1648523474387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1648523474387" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spring/ApplicationContextProvider.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/testbean/DefaultBeanFactoryTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DefaultBeanFactoryTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/DefaultBeanFactory.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/DefaultBeanFactory.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/DefaultBeanFactory.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/DefaultBeanFactory.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springmy/DefaultBeanFactory.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -22,6 +22,17 @@ public class Changliang {
         System.out.println("i4=i5+i6   " + (i4 == i5 + i6));//因为+这个操作符不适用于Integer对象，首先i5和i6进行自动拆箱操作，进行数值相加
         System.out.println("40=i5+i6   " + (40 == i5 + i6));
 
+        int[] arr={1,5,8,2,6,7};
+
+        for (int i = 0; i <arr.length/2 ; i++) {
+            int temp=arr[i];
+            arr[i]=arr[arr.length-1-i];
+            arr[arr.length-1-i]=temp;
+        }
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i]);
+        }
+
 
     }
 

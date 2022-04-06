@@ -44,6 +44,14 @@ public class CountDownLatchDemo {
     }
 
     public static void main(String[] args) throws Exception {
-        aync();
+//        aync();
+        try {
+            Thread t=new Thread(()-> System.out.println("abc"));
+            t.start();
+            t.start();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
     }
 }

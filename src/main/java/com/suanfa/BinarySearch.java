@@ -31,6 +31,6 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int[] arr = new int[]{1, 3, 4, 6, 7, 9, 12, 23};
-        System.out.println("index: " + getBinarySearch(arr, 2));
+        System.out.println("index: " + getBinarySearch(arr, 7));
     }
 }

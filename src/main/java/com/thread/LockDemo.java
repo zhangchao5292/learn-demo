@@ -44,5 +44,6 @@ public class LockDemo {
 //        当线程 T1 执行到 ① 处时，已经获取到了锁 rtl ，当在 ① 处调用 get() 方法时，会在 ② 再次对锁 rtl 执行加锁操作。此时，如果锁 rtl 是可重入的，那么线程 T1 可以再次加锁成功；
         lockDemo.addOne();
         Integer a=new Integer(12);
+
     }
 }

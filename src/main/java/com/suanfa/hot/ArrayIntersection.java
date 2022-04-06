@@ -1,8 +1,6 @@
 package com.suanfa.hot;
 
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @description: 数组交集
@@ -21,6 +19,8 @@ public class ArrayIntersection {
 //                System.out.println(arr[i]);
 //            }
             arrayIntersection2(nums1, nums2);
+           List<Object> objects = new ArrayList<>();
+            objects.add(12);
         } catch (Exception e) {
             e.printStackTrace();
         }

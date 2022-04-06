@@ -39,11 +39,12 @@ repositories {
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
     testCompile 'org.springframework.boot:spring-boot-starter-test'
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+//    testCompile group: 'junit', name: 'junit', version: '4.13.1'
     implementation 'com.alibaba:fastjson:1.2.70'
     implementation 'org.apache.commons:commons-lang3:3.10'
     implementation 'com.google.guava:guava:29.0-jre'
     implementation 'p6spy:p6spy:3.9.0'
     implementation 'io.netty:netty-all:4.1.51.Final'
     implementation 'org.projectlombok:lombok:1.18.12'
+    implementation 'junit:junit:4.13.1'
 }

@@ -1,5 +1,7 @@
 package com.suanfa;
 
+import java.util.Arrays;
+
 /**
  * 冒泡、选择、插入 排序需要两个for循环，每次只关注一个元素，平均时间复杂度为O(n²)）（一遍找元素O(n)，一遍找位置O(n)）
  * 快速、归并、希尔、堆排 基于二分思想，log以2为底，平均时间复杂度为O(nlogn)（一遍找元素O(n)，一遍找位置O(logn)）
@@ -10,9 +12,9 @@ public class Paixu {
         int[] arr = new int[]{1, 3, 2, 6, 5, 8, 4};
 //        maoPao(arr);//冒泡排序
 //        xuanze(arr);//选择排序
-//        quickSort(arr, 0, arr.length - 1);//快速排序
-//        Arrays.stream(arr).forEach(a -> System.out.println(a));
-        mergeSort(arr,0,arr.length-1);
+        quickSort(arr, 0, arr.length - 1);//快速排序
+        Arrays.stream(arr).forEach(a -> System.out.println(a));
+//        mergeSort(arr,0,arr.length-1);
     }
 
     //快速排序
@@ -163,7 +165,6 @@ public class Paixu {
         if (start >= end) {
             return;
         }
-
         //找出中间索引
         int mid = (start + end) / 2;
         // 对左边数组进行递归

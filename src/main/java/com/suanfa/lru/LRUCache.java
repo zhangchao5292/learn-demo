@@ -1,10 +1,11 @@
-package com.suanfa;
+package com.suanfa.lru;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * LRU（Least Recently Used）缓存算法
+ * 热点数据时，LRU的效率很好
+ * LRU（Least Recently Used）缓存算法  LRU全称是Least Recently Used，即最近最久未使用的意思
  * 使用HashMap+双向链表，使get和put的时间复杂度达到O(1)。
  * 读缓存时从HashMap中查找key，更新缓存时同时更新HashMap和双向链表，双向链表始终按照访问顺序排列。
  */
@@ -52,8 +53,6 @@ public class LRUCache<V> {
             return null;
         }
         //如果存在，则需要移动Node节点到表头
-
-
         //截断链表，node.prev -> node  -> node.next ====> node.prev -> node.next
         //         node.prev <- node <- node.next  ====>  node.prev <- node.next
         node.prev.next = node.next;
@@ -88,8 +87,10 @@ public class LRUCache<V> {
             table.put(key, node);
         }
         //如果存在，则需要移动Node节点到表头
-        node.next = head.next;
-        head.next.prev = node;
+        //head移动
+        ListNode<String, V> originalHead = head.next;
+        node.next = originalHead;
+        originalHead.prev = node;
         node.prev = head;
         head.next = node;
     }

@@ -46,6 +46,11 @@ public class ReverseNode {
 //    在遍历链表时，将当前节点的 \textit{next}next 指针改为指向前一个节点。由于节点没有引用其前一个节点，因此必须事先存储其前一个节点。在更改引用之前，还需要存储后一个节点。最后返回新的头引用。
 
 
+//    迭代过程
+//    nxt指向cur.next
+//    cur.next指向pre
+//    pre移动到cur位置
+//    cur移动到nxt位置
     public static ListNode reverseList(ListNode head) {
         ListNode pre = null;// 上一结点
         ListNode curr = head;
@@ -77,6 +82,9 @@ public class ReverseNode {
             re = re.getNext();
         }
     }
+
+//    61. 旋转链表
+
 
 }
 
